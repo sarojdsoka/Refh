@@ -1,13 +1,34 @@
-# GJ-3 Sandwich & Pizza — Order Summary (2 Jul - 26 Jul)
+# Refh — GJ-3 Sandwich & Pizza Business Reports
 
-| Item | Quantity Ordered |
-|---|---|
-| Pizza | 66 |
-| Burger | 38 |
-| 600g Sandwich | 20 |
-| 800g Sandwich | 19 |
-| Garlic Bread | 24 |
-| Burger Bun | 25 |
-| Jumbo Bread | 10 |
-| Normal Sandwich | 10 |
-| Khajur Amboli Chutney | 1 |
+## 📊 Business Snapshot (July 2026)
+
+Complete daily report: `business-snapshot-july-2026.md`
+
+Includes:
+- 21-day Master Sheet (7–27 Jul)
+- Payment Methods daily breakdown
+- Category Sales matrix (Items & Revenue)
+- Week-wise summary & key stats
+
+## 🚀 How to add daily data
+
+**Via opencode:**
+
+1. Open opencode
+2. Run: `/add-sales`
+3. Paste the raw data from your ordering dashboard
+4. Done — file updated & pushed to GitHub
+
+**Manually:**
+
+```bash
+cd ~/Refh
+# Edit business-snapshot-july-2026.md, add your day's data
+git add .
+git commit -m "Add daily data DD-MMM-YYYY"
+git push
+```
+
+## 🔗 GitHub
+
+https://github.com/sarojdsoka/Refh
