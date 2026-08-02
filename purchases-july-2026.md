@@ -1,9 +1,16 @@
 # 📦 GJ-3 Sandwich & Pizza — Purchases Record
-## Period: 29 Jun – 26 Jul 2026 | Total: ₹53,044.99 | Entries: 124
+## Period: 29 Jun – 28 Jul 2026 | Total: ₹54,528.99 | Entries: 126
 
 ---
 
 ## 🔹 Daily Purchase Log
+
+### 28 Jul 2026 — ₹1,515.00 (2 entries)
+
+| # | Item | Category | Supplier | Qty | Amount |
+|:-:|------|----------|----------|:---:|-------:|
+| 1 | barky items (25–28 Jul nu bill) | Raw Material | Zepoli | 1 | ₹1,325.00 |
+| 2 | vegs | Vegetables | Blinkit | 1 | ₹190.00 |
 
 ### 26 Jul 2026 — ₹4,234.00 (8 entries)
 
@@ -244,14 +251,14 @@
 | 🥦 Vegetables | ₹2,364.00 | 33 |
 | 🧀 Dairy & Cheese | ₹6,035.00 | 12 |
 | *(uncategorized)* | ₹2,760.00 | 3 |
-| **TOTAL** | **₹53,044.99** | **124** |
+| **TOTAL** | **₹54,528.99** | **126** |
 
 ## 🔹 Supplier Summary
 
 | Supplier | Total Amount | Entries |
 |----------|:-----------:|:-------:|
-| Zepoli | ₹4,354.00 | 26 |
-| Blinkit | ₹3,254.00 | 33 |
+| Zepoli | ₹5,679.00 | 27 |
+| Blinkit | ₹3,444.00 | 34 |
 | NJ Enterprice | ₹18,464.00 | 8 |
 | Bazar | ₹4,027.00 | 10 |
 | Tirth Marketing | ₹6,953.00 | 9 |
@@ -265,7 +272,7 @@
 | Fill up | ₹20.00 | 1 |
 | Other / Mixed | ₹2,760.00 | 3 |
 | (uncategorized suppliers) | ₹8,907.99 | 21 |
-| **TOTAL** | **₹53,044.99** | **124** |
+| **TOTAL** | **₹54,528.99** | **126** |
 
 *(Note: Blinkit/BlinkIt entries counted together)*
 
@@ -306,3 +313,55 @@
 | 🏪 Bazar | ₹4,027 | Chatni, Vegetables, General supplies |
 | 🏪 Blinkit | ₹3,254 | Vegetables, Dairy, Daily essentials |
 | 🏪 Dmart | ₹2,461 | Maggi, Namkeen, Butter, Packaged goods |
+
+---
+
+## 🔹 Zyfthy (Bakery) Daily Supply — 02 Jul – 01 Aug 2026
+
+*Zyfthy = Zepoli ka WhatsApp order contact. "Used" = delivered/used items; "Badlvani" = expired items exchanged (not counted).*
+
+| Date | Pizza | Burger | 600g Sndw | 800g Sndw | Garlic Brd | Bun | Normal Sndw | Jumbo | Other |
+|:----:|:-----:|:------:|:---------:|:---------:|:----------:|:---:|:-----------:|:-----:|:------:|
+| 02 Jul | — | 2 | — | — | 1 | — | — | 1 | — |
+| 03 Jul | — | — | — | — | — | — | 2 | — | — |
+| 04 Jul | 7 | — | — | — | — | 5 | 3 | 5 | — |
+| 05 Jul | — | — | — | — | 4 | 5 | — | — | — |
+| 06 Jul | — | — | — | — | — | — | — | 4 | Khajur chutney 1 |
+| 07 Jul | — | — | — | — | — | — | 3 | — | — |
+| 08 Jul | 7 | 5 | — | — | 2 | — | — | — | — |
+| 09 Jul | 2 | — | — | 2 | — | — | — | — | — |
+| 10 Jul | — | 1 | — | — | — | — | — | — | — |
+| 11 Jul | 6 | 3 | — | — | 3 | — | 2 | — | — |
+| 12 Jul | 1 | — | 2 | 3 | 2 | 5 | — | — | — |
+| 13 Jul | 1 | 4 | 2 | 2 | 1 | — | — | — | — |
+| 14 Jul | 3 | 3 | — | — | 2 | — | — | — | — |
+| 15 Jul | 2 | 5 | — | — | 1 | — | — | — | — |
+| 16 Jul | 2 | 4 | 3 | 2 | — | — | — | — | — |
+| 17 Jul | 4 | 3 | 1 | — | — | — | — | — | — |
+| 18 Jul | 6 | 8 | 4 | 1 | 4 | — | — | — | — |
+| 19 Jul | 4 | — | — | 1 | — | — | — | — | — |
+| 20 Jul | 4 | — | — | — | — | — | — | — | — |
+| 21 Jul | 3 | — | 3 | 2 | — | — | — | — | — |
+| 22 Jul | 2 | — | 1 | 3 | — | — | — | — | — |
+| 23 Jul | 6 | — | — | — | 1 | — | — | — | — |
+| 25 Jul | 1 | — | 4 | 1 | 2 | 10 | — | — | — |
+| 26 Jul | 5 | — | — | 2 | 1 | — | — | — | — |
+| 28 Jul | — | — | 2 | 2 | — | — | — | — | — |
+| 29 Jul | — | 3 | 2 | 1 | — | — | — | — | — |
+| 31 Jul | 3 | — | — | 1 | — | — | — | — | — |
+| 01 Aug | 5 | 10 | 3 | 2 | 3 | — | — | — | — |
+| **TOTAL USED** | **74** | **51** | **27** | **25** | **27** | **25** | **10** | **10** | **1** |
+
+### Zyfthy — Badlvani (exchanged expired items, not counted as usage)
+
+| Item | Total |
+|------|:-----:|
+| Pizza | 22 |
+| Garlic Bread | 17 |
+| Burger | 16 |
+| 800g Sandwich | 10 |
+| 600g Sandwich | 7 |
+| Burger Bun | 6 |
+| Jumbo Bread | 3 |
+| Normal Sandwich | 1 |
+| **TOTAL BADLVANI** | **82** |
