@@ -72,3 +72,32 @@
 | **TOTAL** | **82** |
 
 *Badlvani rate ~25% of usage (82/250) — bakery supply ka expire wastage roughly har 4 me 1.*
+
+---
+
+## 🔹 Supply vs Sales — Usage Hisab (Conversion Rates)
+
+*Conversion: 1 pizza pkt = 2 base · 1 garlic pkt = 4 plates · 1 burger pkt = 2 bun · 1 burger bun (loose) = 1 · 600g bread = 10 (2L) sandwich · 800g bread = 5 (3L) sandwich. Sales source: business snapshot (29 Jun–30 Jul), Zyfthy supply 02 Jul–01 Aug.*
+
+| Item | Supply (pkts) | × Conv | Capacity | Sold | **Unused** |
+|------|:---:|:---:|:---:|:---:|:---:|
+| 🍕 Pizza base | 74 | ×2 | 148 | 128 | **20** |
+| 🧄 Garlic plate | 27 | ×4 | 108 | 85 | **23** |
+| 🍔 Burger bun | 51 | ×2 | 102 | 108 | -6* |
+| 🍞 Burger bun (loose) | 25 | ×1 | 25 | — | 25 |
+| 🥪 600g + Normal (2L) | 37 | ×10 | 370 | 231 | **139** |
+| 🥪 800g (3L + Club) | 25 | ×5 | 125 | 94 | **31** |
+| **TOTAL** | — | — | **878** | **646** | **232** |
+
+*\*Burger me 6 ki kami loose bun se cover hui (25-6=19 spare). Jumbo (10 pkts) ka conversion rate nahi pata, isliye math me nahi liya.*
+
+### Unused Summary
+
+| Item | Unused | Note |
+|------|:---:|------|
+| 2L sandwich (600g+Normal) | 139 | Sabse zyada waste — over-supply |
+| 800g (3L) | 31 | |
+| Garlic plates | 23 | |
+| Pizza base | 20 | |
+| Burger buns | 19 | 6 loose bun bhi khatam hue |
+| **Total unused** | **232** | ~26% of capacity (878) |
