@@ -10,6 +10,19 @@ Includes:
 - Category Sales matrix (Items & Revenue)
 - Week-wise summary & key stats
 
+## 🍞 Zyfthy Bakery Supply (GJ-3)
+
+Daily bread/pizza-base supply from Zyfthy (Zepoli bakery): `zyfthy-bakery-supply-july-2026.md`
+
+Includes:
+- Daily supply log (02 Jul – 01 Aug)
+- Badlvani (exchange/return) breakdown
+- Supply vs sales usage hisab (conversion rates)
+- Approx packet usage & unused packets
+- Packet cost hisab
+
+Purchases record: `purchases-july-2026.md`
+
 ## 🚀 How to add daily data
 
 **Via opencode:**

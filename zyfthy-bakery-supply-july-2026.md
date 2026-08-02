@@ -114,6 +114,21 @@
 | 🥪 800g (3L) | 25 | ~19 | **~6** |
 | **TOTAL** | **239** | **~183** | **~56** |
 
+### 💰 Packet Cost Hisab
+
+*Price per packet: Pizza ₹30 · Garlic ₹40 · Burger bun ₹20 · 2L (600g) ₹55 · 3L (800g) ₹65*
+
+| Item | Price/pkt | Supply (pkts) | **Supply Cost** | ~Used Cost | ~Unused Cost |
+|------|:---:|:---:|:---:|:---:|:---:|
+| 🍕 Pizza base | ₹30 | 74 | **₹2,220** | ~₹1,920 | ~₹300 |
+| 🧄 Garlic plate | ₹40 | 27 | **₹1,080** | ~₹880 | ~₹200 |
+| 🍔 Burger bun | ₹20 | 76 | **₹1,520** | ~₹1,080 | ~₹440 |
+| 🥪 600g+Normal (2L) | ₹55 | 37 | **₹2,035** | ~₹1,320 | ~₹715 |
+| 🥪 800g (3L) | ₹65 | 25 | **₹1,625** | ~₹1,235 | ~₹390 |
+| **TOTAL** | — | **239** | **₹8,480** | **~₹6,435** | **~₹2,045** |
+
+*\*Unused cost = unused packets × price — badlvani me return thodi si cost wapas aati hai, so actual loss isliye kam ho sakta hai.*
+
 ### Unused Summary
 
 | Item | Unused | Note |
