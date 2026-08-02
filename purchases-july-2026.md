@@ -1,16 +1,9 @@
 # 📦 GJ-3 Sandwich & Pizza — Purchases Record
-## Period: 29 Jun – 28 Jul 2026 | Total: ₹54,528.99 | Entries: 126
+## Period: 29 Jun – 26 Jul 2026 | Total: ₹53,044.99 | Entries: 124
 
 ---
 
 ## 🔹 Daily Purchase Log
-
-### 28 Jul 2026 — ₹1,515.00 (2 entries)
-
-| # | Item | Category | Supplier | Qty | Amount |
-|:-:|------|----------|----------|:---:|-------:|
-| 1 | barky items (25–28 Jul nu bill) | Raw Material | Zepoli | 1 | ₹1,325.00 |
-| 2 | vegs | Vegetables | Blinkit | 1 | ₹190.00 |
 
 ### 26 Jul 2026 — ₹4,234.00 (8 entries)
 
@@ -251,14 +244,14 @@
 | 🥦 Vegetables | ₹2,364.00 | 33 |
 | 🧀 Dairy & Cheese | ₹6,035.00 | 12 |
 | *(uncategorized)* | ₹2,760.00 | 3 |
-| **TOTAL** | **₹54,528.99** | **126** |
+| **TOTAL** | **₹53,044.99** | **124** |
 
 ## 🔹 Supplier Summary
 
 | Supplier | Total Amount | Entries |
 |----------|:-----------:|:-------:|
-| Zepoli | ₹5,679.00 | 27 |
-| Blinkit | ₹3,444.00 | 34 |
+| Zepoli | ₹4,354.00 | 26 |
+| Blinkit | ₹3,254.00 | 33 |
 | NJ Enterprice | ₹18,464.00 | 8 |
 | Bazar | ₹4,027.00 | 10 |
 | Tirth Marketing | ₹6,953.00 | 9 |
@@ -272,7 +265,7 @@
 | Fill up | ₹20.00 | 1 |
 | Other / Mixed | ₹2,760.00 | 3 |
 | (uncategorized suppliers) | ₹8,907.99 | 21 |
-| **TOTAL** | **₹54,528.99** | **126** |
+| **TOTAL** | **₹53,044.99** | **124** |
 
 *(Note: Blinkit/BlinkIt entries counted together)*
 
