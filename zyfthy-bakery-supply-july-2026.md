@@ -91,6 +91,18 @@
 
 *\*Burger me 6 ki kami loose bun se cover hui (25-6=19 spare). Jumbo (10 pkts) ka conversion rate nahi pata, isliye math me nahi liya.*
 
+### Approx Packet Usage (sales se packets me)
+
+| Item | Sold | ÷ Conv | **~Packets Used** | Supply (pkts) | ~Spare |
+|------|:---:|:---:|:---:|:---:|:---:|
+| 🍕 Pizza base | 128 | ÷2 | **~64** | 74 | ~10 |
+| 🧄 Garlic plate | 85 | ÷4 | **~22** | 27 | ~5 |
+| 🍔 Burger bun | 108 | ÷2 | **~54** | 76* | ~22 |
+| 🥪 600g+Normal (2L) | 231 | ÷10 | **~24** | 37 | ~13 |
+| 🥪 800g (3L) | 94 | ÷5 | **~19** | 25 | ~6 |
+
+*\*51 burger pkt + 25 loose bun pkt. Burger loose buns pehle khatam hote hain, so ~6 loose buns use + ~48 burger pkt = 54 pkt approx.*
+
 ### Unused Summary
 
 | Item | Unused | Note |
