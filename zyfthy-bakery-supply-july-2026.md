@@ -103,6 +103,17 @@
 
 *\*51 burger pkt + 25 loose bun pkt. Burger loose buns pehle khatam hote hain, so ~6 loose buns use + ~48 burger pkt = 54 pkt approx.*
 
+### Unused Packets
+
+| Item | Supply (pkts) | ~Used (pkts) | **~Unused (pkts)** |
+|------|:---:|:---:|:---:|
+| 🍕 Pizza base | 74 | ~64 | **~10** |
+| 🧄 Garlic plate | 27 | ~22 | **~5** |
+| 🍔 Burger bun | 76 | ~54 | **~22** |
+| 🥪 600g+Normal (2L) | 37 | ~24 | **~13** |
+| 🥪 800g (3L) | 25 | ~19 | **~6** |
+| **TOTAL** | **239** | **~183** | **~56** |
+
 ### Unused Summary
 
 | Item | Unused | Note |
