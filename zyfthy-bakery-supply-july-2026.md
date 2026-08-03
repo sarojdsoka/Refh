@@ -98,7 +98,7 @@
 | **TOTAL** | | | **₹4,370–5,060** |
 
 - Per pizza: **~₹34.14–39.52** (mozzarella ₹31.50–36 + pasta ₹2.64–3.52)
-- Leftover: Mozzarella 7 packets (14 kg) − ~9–10 kg used = **3.76–5 kg bacha**; Pasta sauce 3 packets (~3 kg) − ~2–2.5 kg used = **~0.44–1.08 kg bacha**
+- Leftover (sirf pizza-wise provisional): Mozzarella 7 packets (14 kg) − ~9–10 kg pizza use = **3.76–5 kg bacha** — but garlic bread bhi same 7 packets se cheese leti hai, isliye sahi hisab neeche **Combined Mozzarella Summary** me dekho (~0.36 kg bacha to ~1.34 kg kami); Pasta sauce 3 packets (~3 kg) − ~2–2.5 kg used = **~0.44–1.08 kg bacha**
 
 ### 🧄 Garlic Bread Cheese Cost Hisab (85 plates, 02 Jul–01 Aug)
 
