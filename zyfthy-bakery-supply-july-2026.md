@@ -282,3 +282,17 @@
 - **❌ Total Loss (unused supply):** **~₹2,045** — sabse zyada 2L sandwich (₹715) aur burger bun (₹440) me
 - Profit ka ratio: **~97% revenue profit, ~3% loss** (2,045 / 71,486)
 
+---
+
+## 📉 Total Unused / Loss Summary (ab tak)
+
+| Item | Unused | **Loss** |
+|------|--------|---------|
+| 🍞 Bakery packets (pizza/garlic/burger/2L/3L) | ~56 pkts | **₹2,045** |
+| 🍟 French fries (Tirth 16.23 kg + Blinkit 2.75 kg) | ~18.98 kg | **₹2,037** |
+| 🧀 Mozzarella (pizza+garlic milkar ~13.6–15.3 kg of 14 kg) | ~0–0.36 kg | **₹0–160** |
+| 🍝 Pasta sauce | ~0.44–1.08 kg | **₹77–190** |
+| **TOTAL** | | **~₹4,160–4,430** |
+
+*Extra supplies (ketchup 24, fries packets, dressings, decker etc.) ka price nahi pata, isliye is summary me nahi — unke saath loss aur badhega. Bakery packets ka loss source: Packet Cost Hisab / Bread P&L (₹2,045). Fries: French Fries Full Hisab Table (₹2,037). Mozzarella: Combined pizza+garlic usage vs 14 kg ordered — dono alag sections se.*
+
