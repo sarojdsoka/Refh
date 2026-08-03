@@ -87,7 +87,18 @@
 - Per pizza 70–80 g → **₹31.50–36.00/pizza**
 - 1 packet (2 kg) = 2000 ÷ 70 = ~28 se 2000 ÷ 80 = 25 → **~25–28 pizzas per packet**
 - 7 packets ≈ **175–200 pizzas** cover
-- Pizza pasta sauce: 15–20 g per pizza — packet size/price pata nahi, isliye per-pizza cost calculate nahi ho sakta (note)
+- Pizza pasta sauce: ₹176/kg → ₹0.176/g → 15–20 g per pizza = **₹2.64–3.52/pizza**
+
+### 🍕 Pizza Ingredient Cost Hisab (128 pizzas, 29 Jun–30 Jul)
+
+| Item | Per pizza | Total used (128 ×) | Kharcha |
+|------|-----------|--------------------|---------|
+| Mozzarella | 70–80 g | 8.96–10.24 kg | ₹4,032–4,608 (₹450/kg) |
+| Pasta sauce | 15–20 g | 1.92–2.56 kg | ₹338–451 (₹176/kg) |
+| **TOTAL** | | | **₹4,370–5,060** |
+
+- Per pizza: **~₹34.14–39.52** (mozzarella ₹31.50–36 + pasta ₹2.64–3.52)
+- Leftover: Mozzarella 7 packets (14 kg) − ~9–10 kg used = **3.76–5 kg bacha**; Pasta sauce 3 packets (~3 kg) − ~2–2.5 kg used = **~0.44–1.08 kg bacha**
 
 ---
 
