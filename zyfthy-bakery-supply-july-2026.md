@@ -169,6 +169,16 @@
 - Packets used: pehle 6mm Tirth ke 2.5 kg packets khatam hote hain → 13.77 ÷ 2.5 = **~5.5 packets** → **~5–6 packets of 12 sold**
 - Packets remaining: **~6–7 Tirth packets (2.5 kg wale) + dono Blinkit packs (1.25 + 1.5 kg, 9mm, abhi bhi fresh/unsold)** ≈ **18–20 kg**
 
+### 🧮 Full Hisab Table
+
+| Item | Bought (kg) | Packets Used | Packets Unused | kg Used | kg Unused | Cost Used | **Loss (Unused Cost)** |
+|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 🍟 Tirth 6mm | 30 | ~5.5 | ~6.5 | 13.77 | 16.23 | ~₹1,469 | ~₹1,731 |
+| 🍟 Blinkit 9mm | 2.75 | 0 | 2 | 0 | 2.75 | ₹0 | ₹306 |
+| **TOTAL** | **32.75** | **~5.5** | **~8.5** | **13.77** | **18.98** | **~₹1,469** | **~₹2,037** |
+
+*\*Tirth: ₹266.66/pkt ÷ 2.5 kg = ₹106.66/kg. Used cost = 13.77 kg × ₹106.66 = ~₹1,469 · Unused cost = 16.23 kg × ₹106.66 = ~₹1,731. Blinkit dono packs abhi bhi fresh hain, full ₹306 loss me.*
+
 ### Notes
 
 - Per plate 170 g assume kiya (160–180 g range diya hai, exact nahi).
