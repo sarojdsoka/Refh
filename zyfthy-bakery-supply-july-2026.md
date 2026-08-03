@@ -1,5 +1,5 @@
 # 🍞 Zyfthy (Zepoli Bakery) — Daily Bread & Pizza Base Supply
-## Period: 02 Jul – 01 Aug 2026 | Total Used: 250 | Badlvani: 82
+## Period: 02 Jul – 03 Aug 2026 | Total Used: 250 | Badlvani: 82
 
 *Zyfthy = Zepoli ka WhatsApp order contact. Har subah ka message: order items, "extra" = nayi supply, "badlvani" = expire/unsold saman exchange (return) — badlvani use me nahi count hota.*
 
@@ -38,6 +38,56 @@
 | 31 Jul | 3 | — | — | 1 | — | — | — | — | — |
 | 01 Aug | 5 | 10 | 3 | 2 | 3 | — | — | — | — |
 | **TOTAL** | **74** | **51** | **27** | **25** | **27** | **25** | **10** | **10** | **1** |
+
+---
+
+## 🔹 Extra Supplies — Sauces, Dressings & Sides (Zyfthy/Zepoli orders)
+
+*Trunq WhatsApp se extra supply (sauces/dressings/sides) — bakery items nahi, isliye Daily Supply Log ke totals me count nahi hote.*
+
+### (a) Date-wise Trunq Log
+
+| Date | Items |
+|:----:|-------|
+| 06/07 | Veeba ketchup (8gm) 5 · French fries (6mm) 2 · Premium veg decker 3 |
+| 13/07 | Harisa dressing 2 · Chipotle 2 · Thousand island 1 · Veeba ketchup (8gm) 6 · Oregano packet (8gm) 1 · French fries 3 · Jalapeño 1 · Black olives 1 |
+| 21/07 | Premium veg decker 3 · Ketchup 6 · French fries 2 · Pizza pasta sauce 2 · Tandoori spread 1 |
+
+### (b) Empty Consolidated Totals
+
+| Item | Empty |
+|------|:---:|
+| Ketchup | 24 |
+| French Fries | 11 |
+| Premium Veg Decker | 6 |
+| Chipotle | 3 |
+| Harisa Dressing | 2 |
+| Thousand Island | 2 |
+| Pizza Pasta Sauce | 2 |
+| Oregano | 1 |
+| Jalapeño | 1 |
+| Black Olives | 1 |
+| Tandoori Spread | 1 |
+| Mexican | 1 |
+| Chili Flakes | 1 |
+| **TOTAL** | **56** |
+
+### (c) New Order — 03 Aug 2026
+
+| Item | Qty | Price | Total |
+|------|:---:|------|-----:|
+| Pizza pasta sauce | 3 | — | — |
+| 🧀 Mozzarella (2 kg pkt) | 7 | ₹900/pkt | **₹6,300** |
+
+- Mozzarella total: 7 × 2 kg = **14 kg**
+
+### 🧀 Per-Pizza Cost Hisab (Mozzarella)
+
+- ₹900 ÷ 2000 g = **₹0.45/g**
+- Per pizza 70–80 g → **₹31.50–36.00/pizza**
+- 1 packet (2 kg) = 2000 ÷ 70 = ~28 se 2000 ÷ 80 = 25 → **~25–28 pizzas per packet**
+- 7 packets ≈ **175–200 pizzas** cover
+- Pizza pasta sauce: 15–20 g per pizza — packet size/price pata nahi, isliye per-pizza cost calculate nahi ho sakta (note)
 
 ---
 
