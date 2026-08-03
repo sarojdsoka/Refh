@@ -100,6 +100,27 @@
 - Per pizza: **~₹34.14–39.52** (mozzarella ₹31.50–36 + pasta ₹2.64–3.52)
 - Leftover: Mozzarella 7 packets (14 kg) − ~9–10 kg used = **3.76–5 kg bacha**; Pasta sauce 3 packets (~3 kg) − ~2–2.5 kg used = **~0.44–1.08 kg bacha**
 
+### 🧄 Garlic Bread Cheese Cost Hisab (85 plates, 02 Jul–01 Aug)
+
+*Garlic plates sold: 85 (Supply vs Sales table). Cheese same 7 mozzarella packets (2 kg each, ₹900/pkt = ₹450/kg) se use hui. Per plate 55–60 g mozzarella.*
+
+| Item | Per plate | Total used (85 ×) | Kharcha |
+|------|-----------|--------------------|---------|
+| 🧀 Mozzarella | 55–60 g | 4.675–5.1 kg | ₹2,103.75–2,295 (₹450/kg) |
+
+- Per plate: **₹24.75–27.00** (55–60 g × ₹0.45/g)
+- 1 packet (2 kg) = 2000 ÷ 55 = ~36 se 2000 ÷ 60 = ~33 → **~33–36 plates per packet**
+
+### 🧀 Combined Mozzarella Summary (Pizza + Garlic — same 7 packets, 14 kg)
+
+| Item | Total used | Cost |
+|------|-----------|------|
+| 🍕 Pizza (128 pizzas) | 8.96–10.24 kg | ₹4,032–4,608 |
+| 🧄 Garlic (85 plates) | 4.675–5.1 kg | ₹2,104–2,295 |
+| **TOTAL** | **13.64–15.34 kg** | **₹6,136–6,903** |
+
+- vs 14 kg ordered (7 × 2 kg, **₹6,300**): minimum estimate me **~0.36 kg bachta** hai, maximum estimate me **~1.34 kg ki kami** → dono items milkar ordered mozzarella ko almost fully consume kar rahe hain
+
 ---
 
 ## 🔹 Item Summary
