@@ -1,4 +1,4 @@
-# Refh — GJ-3 Sandwich & Pizza Business Reports
+# Refh — Zyfthy Sandwich & Pizza Business Reports
 
 ## 📊 Business Snapshot (July 2026)
 
@@ -10,7 +10,7 @@ Includes:
 - Category Sales matrix (Items & Revenue)
 - Week-wise summary & key stats
 
-## 🍞 Zyfthy Bakery Supply (GJ-3)
+## 🍞 Zyfthy Bakery Supply
 
 Daily bread/pizza-base supply from Zyfthy (Zepoli bakery): `zyfthy-bakery-supply-july-2026.md`
 

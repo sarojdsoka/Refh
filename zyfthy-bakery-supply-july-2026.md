@@ -139,3 +139,38 @@
 | Pizza base | 20 | |
 | Burger buns | 19 | 6 loose bun bhi khatam hue |
 | **Total unused** | **232** | ~26% of capacity (878) |
+
+---
+
+## 🔹 🍟 French Fries — Supply vs Sales Hisab
+
+*Period: Purchases 29 Jun – 31 Jul · Sales 29 Jun – 30 Jul. Snapshot 30 Jul tak hi hai, isliye 31 Jul ka sales count nahi aaya.*
+
+### Purchases
+
+| Source | Item | Qty | Size | Cost |
+|--------|------|:---:|------|-----:|
+| Tirth Marketing | French Fries (6mm cut) | 12 packets × 2.5 kg = **30 kg** | 2.5 kg/pkt | —* |
+| Blinkit | French Fries (9mm) | 1.25 kg | 9mm | ₹138 |
+| Blinkit | French Fries (9mm) | 1.5 kg | 9mm | ₹168 |
+| **TOTAL** | | **32.75 kg** | | **₹306*** |
+
+*\*Tirth Marketing ke packet ka price nahi pata, isliye cost hisab sirf Blinkit ka (₹306).*
+
+### Sales Hisab
+
+- Plates sold (business snapshot FR. FRIES TOTAL): **81 plates** (29 Jun – 30 Jul)
+- Per plate: **160–180 g** → midpoint **170 g** use kiya
+- **kg sold = 81 × 0.17 = 13.77 kg** (range: 81×0.16 = 12.96 kg se 81×0.18 = 14.58 kg)
+
+### Unsold Hisab
+
+- **kg unsold = 32.75 − 13.77 = ~18.98 kg** (range ~18.17–19.79 kg)
+- Packets used: pehle 6mm Tirth ke 2.5 kg packets khatam hote hain → 13.77 ÷ 2.5 = **~5.5 packets** → **~5–6 packets of 12 sold**
+- Packets remaining: **~6–7 Tirth packets (2.5 kg wale) + dono Blinkit packs (1.25 + 1.5 kg, 9mm, abhi bhi fresh/unsold)** ≈ **18–20 kg**
+
+### Notes
+
+- Per plate 170 g assume kiya (160–180 g range diya hai, exact nahi).
+- Snapshot 30 Jul tak hai isliye 31 Jul ka sales count nahi — actual sold isse thoda zyada ho sakta hai.
+- Tirth packet price unknown, isliye cost hisab sirf Blinkit ka (₹306).

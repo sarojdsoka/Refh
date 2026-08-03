@@ -1,4 +1,4 @@
-# 📦 GJ-3 Sandwich & Pizza — Purchases Record
+# 📦 Zyfthy Sandwich & Pizza — Purchases Record
 ## Period: 29 Jun – 26 Jul 2026 | Total: ₹53,044.99 | Entries: 124
 
 ---
