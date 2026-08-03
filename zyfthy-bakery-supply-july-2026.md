@@ -150,12 +150,12 @@
 
 | Source | Item | Qty | Size | Cost |
 |--------|------|:---:|------|-----:|
-| Tirth Marketing | French Fries (6mm cut) | 12 packets × 2.5 kg = **30 kg** | 2.5 kg/pkt | —* |
+| Tirth Marketing | French Fries (6mm cut) | 12 packets × 2.5 kg = **30 kg** | 2.5 kg/pkt | ₹266.66/pkt = **₹3,199.92** |
 | Blinkit | French Fries (9mm) | 1.25 kg | 9mm | ₹138 |
 | Blinkit | French Fries (9mm) | 1.5 kg | 9mm | ₹168 |
-| **TOTAL** | | **32.75 kg** | | **₹306*** |
+| **TOTAL** | | **32.75 kg** | | **₹3,505.92** |
 
-*\*Tirth Marketing ke packet ka price nahi pata, isliye cost hisab sirf Blinkit ka (₹306).*
+*\*Tirth: 12 × ₹266.66 = ₹3,199.92 · Blinkit: ₹306 · Total = ₹3,505.92.*
 
 ### Sales Hisab
 
@@ -173,4 +173,4 @@
 
 - Per plate 170 g assume kiya (160–180 g range diya hai, exact nahi).
 - Snapshot 30 Jul tak hai isliye 31 Jul ka sales count nahi — actual sold isse thoda zyada ho sakta hai.
-- Tirth packet price unknown, isliye cost hisab sirf Blinkit ka (₹306).
+- Total purchase cost: **₹3,505.92** (Tirth ₹3,199.92 + Blinkit ₹306).
