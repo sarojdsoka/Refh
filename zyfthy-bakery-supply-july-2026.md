@@ -184,3 +184,29 @@
 - Per plate 170 g assume kiya (160–180 g range diya hai, exact nahi).
 - Snapshot 30 Jul tak hai isliye 31 Jul ka sales count nahi — actual sold isse thoda zyada ho sakta hai.
 - Total purchase cost: **₹3,505.92** (Tirth ₹3,199.92 + Blinkit ₹306).
+
+---
+
+## 🔹 🍞 Bread — Profit & Loss Hisab
+
+*Profit = bakery-based items ka sales revenue − bakery supply ka used cost. Loss = unused supply ka value. Revenue source: business snapshot (29 Jun – 30 Jul), supply 02 Jul – 01 Aug.*
+
+| Item | Supply (pkts) | ~Used (pkts) | ~Unused (pkts) | Sold | **Revenue** | Cost Used | **Profit** | **Loss (Unused)** |
+|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 🍕 Pizza base | 74 | ~64 | ~10 | 128 | ₹23,486 | ~₹1,920 | **~₹21,566** | ~₹300 |
+| 🧄 Garlic plate | 27 | ~22 | ~5 | 85 | ₹9,321 | ~₹880 | **~₹8,441** | ~₹200 |
+| 🍔 Burger bun | 76 | ~54 | ~22 | 108 | ₹10,310 | ~₹1,080 | **~₹9,230** | ~₹440 |
+| 🥪 600g+Normal (2L) | 37 | ~24 | ~13 | 231 | ₹13,225 | ~₹1,320 | **~₹11,905** | ~₹715 |
+| 🥪 800g (3L + Club) | 25 | ~19 | ~6 | 94 | ₹15,144 | ~₹1,235 | **~₹13,909** | ~₹390 |
+| **TOTAL** | **239** | **~183** | **~56** | **646** | **₹71,486** | **~₹6,435** | **~₹65,051** | **~₹2,045** |
+
+*\*Profit me sirf bakery supply ka cost nikala hai — baaki ingredients (fries, chutney, sauces, packaging) ka cost alag hai, isliye asli profit isse thoda kam hoga. 3L revenue = Sndwch 3L (₹11,214) + Club 3L (₹3,930). Loss me badlvani ka thoda return bhi aata hai, isliye actual loss kam ho sakta hai.*
+
+### 🍞 Profit vs Loss Summary
+
+- **Total Revenue (bakery items):** ₹71,486
+- **Bakery Supply Cost (used):** ~₹6,435
+- **✅ Total Profit:** **~₹65,051** (~91% margin on supply cost)
+- **❌ Total Loss (unused supply):** **~₹2,045** — sabse zyada 2L sandwich (₹715) aur burger bun (₹440) me
+- Profit ka ratio: **~97% revenue profit, ~3% loss** (2,045 / 71,486)
+
